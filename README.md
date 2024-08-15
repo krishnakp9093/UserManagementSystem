@@ -14,14 +14,6 @@ The **User Management System** is a full-stack web application designed to manag
 - [Features](#features)
 - [Technologies](#technologies)
 - [Architecture](#architecture)
-- [System Requirements](#system-requirements)
-- [Installation and Setup](#installation-and-setup)
-- [Usage](#usage)
-- [Testing](#testing)
-- [Deployment](#deployment)
-- [Security](#security)
-- [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Features
@@ -65,7 +57,7 @@ The application follows a **multi-tier architecture** with a clear separation be
 - **MySQL Schema**: Contains tables for `users`, `roles`, and `permissions`.
 - **Entity Relationships**: Utilizes JPA annotations to define relationships like `@OneToMany` and `@ManyToOne`.
 
- ##Acknowledgements
+ ## Acknowledgements
 - **Spring Boot**: For simplifying backend development.
 - **Angular**: For a powerful frontend framework.
 - **MySQL**: For reliable and efficient database management.
